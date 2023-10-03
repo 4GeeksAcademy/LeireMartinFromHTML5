@@ -1,0 +1,25 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+
+.container-fluid {
+    display: flex;
+    width: 100%;
+    flex-grow: 1;
+    
+}
+.container {
+    width: 100%;
+}
+
+#notes {
+    font-size: x-small;
+}
+
+
+.button {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
